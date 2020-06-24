@@ -11,3 +11,9 @@ dependencies:
   url: https://github.com/ablazleon/jx-py-eks2.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: ablazleon
+  repo: jx-py-eks3
+  url: https://github.com/ablazleon/jx-py-eks3.git
+  version: ""
+  versionURL: ""
